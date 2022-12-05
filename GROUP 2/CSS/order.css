@@ -78,6 +78,9 @@
     
     .mmsg div {
         flex: 1;
+        border: 5px solid lightcoral;
+        border-radius: 0 0 20px 20px;
+        padding: 10px;
     }
     .mmsg div h1{
         font-size: 30px;
