@@ -229,3 +229,6 @@ footer{
 .member h1{
     font-family: 'Times New Roman';
 }
+.member div div{
+    display: block;
+}
